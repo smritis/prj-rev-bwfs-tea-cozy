@@ -1,0 +1,211 @@
+Body {
+background-color: black;
+}
+
+/*Header Section*/
+
+.header {
+width: 150px;
+height: 100px;
+padding: 30px 0px 40px;
+margin-left: 50px;
+margin-right: 50px;
+background-color: black;
+border-bottom:1px;
+position: fixed;
+}
+.header img{
+  padding-left: 10px;
+}
+.header ul {
+font-family: Helvetica;
+font: 20px;
+color:seashell;
+text-align: right;
+padding-right: 10px;
+justify-content: space-around;
+}
+
+a {
+color:seashell;
+font-size: 22px;
+}
+
+/*background Section*/
+
+.background img{
+padding-top: 150px;
+padding-left: 250px;
+width: 1550;
+height: 750px;
+border: 50px;
+}
+
+
+.background h2 {
+font-family: Helvetica;
+font-size: 48px;
+color: seashell;
+background-color: black;
+text-align: center;
+text-align: left;
+padding-top: 0px;
+position: absolute;
+top: 450px;
+width: 100%;
+text-align: center;
+}
+
+.background h4 {
+font-family: Helvetica;
+font-size: 22px;
+color: seashell;
+background-color: black;
+text-align: center;
+text-align: left;
+padding-top: 0px;
+position: absolute;
+top: 515px;
+width: 100%;
+text-align: center;
+}
+/*Teaofmonth Section*/
+
+.Teaofmonth h3 {
+  font-family: Helvetica;
+  font-size: 45px;
+  color: seashell;
+  background-color: black;
+  text-align: center;
+  text-align: left;
+  padding-top: 0px;
+  position: absolute;
+  top: 860px;
+  width: 100%;
+  text-align: center;
+}
+
+.Teaofmonth h4 {
+  font-family: Helvetica;
+  font-size: 22px;
+  color: seashell;
+  background-color: black;
+  text-align: center;
+  text-align: left;
+  padding-top: 0px;
+  position: absolute;
+  top: 933px;
+  width: 100%;
+  text-align: center;
+}
+/*cards Section*/
+
+.cards img {
+    height: 200px;
+    width: 300px;
+
+}
+    div.figure {
+      float: left;
+      width: 20%;
+      text-align: right;
+      font-style: bold;
+      font-size: 30px;
+      font-family: Helvetica;
+      margin-right:100px;
+    }
+
+    div.figure1 {
+      float: left;
+      width: 20%;
+      text-align: right;
+      font-style: bold;
+      font-size: 30px;
+      font-family: Helvetica;
+      margin-right:100px;
+    }
+
+    div.figure2 {
+      float: left;
+      width: 20%;
+      text-align: right;
+      font-style: bold;
+      font-size: 30px;
+      font-family: Helvetica;
+      margin-right:100px;
+    }
+    div.figure2 {
+      float: left;
+      width: 20%;
+      text-align: right;
+      font-style: bold;
+      font-size: 30px;
+      font-family: Helvetica;
+      margin-right:100px;
+    }
+    div.figure3 {
+      float: left;
+      width: 20%;
+      text-align: right;
+      font-style: bold;
+      font-size: 30px;
+      font-family: Helvetica;
+      margin-right:100px;
+    }
+    div.figure3 {
+      float: left;
+      width: 20%;
+      text-align: right;
+      font-style: bold;
+      font-size: 30px;
+      font-family: Helvetica;
+      margin-right:100px;
+    }
+
+    div.figure4 {
+      float: left;
+      width: 20%;
+      text-align: right;
+      font-style: bold;
+      font-size: 30px;
+      font-family: Helvetica;
+      margin-right:100px;
+    }
+     /*Locations Section*/
+     .Location1 {
+   font-size:32px;
+   color: seashell;
+   font-family: Helvetica;
+ }
+
+ .Location2 h5{
+   font-size:22px;
+   color: seashell;
+   font-family: Helvetica;
+ }
+ .Location3 h5{
+   font-size:22px;
+   color: seashell;
+   font-family: Helvetica;
+ }
+    /*Footer Section*/
+    .footer {
+      padding: 60px 0px;
+      background-color:black;
+      color: seashell;
+    }
+
+    .footer p {
+      font-size:32px;
+      margin-bottom: 0;
+      font-family: Helvetica;
+      text-align: center;
+    }
+p {
+      font-size:20px;
+      margin-bottom: 0;
+      font-family: Helvetica;
+      text-align: left;
+      background-color: black;
+      color: seashell;
+    }
